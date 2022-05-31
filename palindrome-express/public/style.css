@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body { 
+    display: flex;
+    flex-direction: column;
+    margin: 15% 20% 0 20%;
+    text-align: center;
+    background-image: url(.//img/yay-palindrome.jpg);
+    font-size: xx-large;
+    color: black;
+} 
+
+button {
+    align-self: center;
+} 
