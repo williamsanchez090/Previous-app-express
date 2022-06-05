@@ -1,0 +1,35 @@
+.final {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    background-image: url(.//img/Porky_Pig.webp);
+    
+    
+    font-size: x-large;
+    font-weight: 700;
+    color: lightseagreen;
+    
+  }
+  .quote {
+    list-style: none;
+  }
+ p {
+   font-size: xx-large;
+ }
+ body .final {
+  background-image: url(.//img/Porky_Pig.webp);
+ }
+ section {
+
+  background-size: cover;
+    background-repeat: no-repeat;
+    
+ }
+
+ div.jumbotron .container .text-center, .container,#now {
+   background-image: url(./img/prance.gif);
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
